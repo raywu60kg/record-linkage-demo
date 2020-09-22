@@ -1,0 +1,2 @@
+activate:
+	jupyter-lab
